@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: redis
-      image: dockersamples/examplevotingapp_vote
+      image: redis
       ports:
        - containerPort: 6379
