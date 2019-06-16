@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="787b22c3-1340-46b5-b0be-461e744ce474" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/redis-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-pod.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgre-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/postgre-pod.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redis-pod.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/postgre-pod.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -86,12 +95,12 @@
         <option value="$PROJECT_DIR$/voter-app.yaml" />
         <option value="$PROJECT_DIR$/redis-service.yaml" />
         <option value="$PROJECT_DIR$/postgres-service.yaml" />
-        <option value="$PROJECT_DIR$/postgre-pod.yaml" />
         <option value="$PROJECT_DIR$/voting-app-service.yaml" />
         <option value="$PROJECT_DIR$/result-app-service.yaml" />
         <option value="$PROJECT_DIR$/result-app.yaml" />
         <option value="$PROJECT_DIR$/worker-app.yaml" />
         <option value="$PROJECT_DIR$/redis-pod.yaml" />
+        <option value="$PROJECT_DIR$/postgre-pod.yaml" />
       </list>
     </option>
   </component>
@@ -185,13 +194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/postgre-pod.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/worker-app.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -238,6 +240,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postgre-pod.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>

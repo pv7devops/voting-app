@@ -7,7 +7,7 @@ metadata:
     app: demo-voter-app
 spec:
   containers:
-    - name: redis
-      image: redis
+    - name: postgres
+      image: postgres
       ports:
        - containerPort: 5432
